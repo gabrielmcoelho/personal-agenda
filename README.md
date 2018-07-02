@@ -21,3 +21,7 @@ CREATE TABLE pessoa(
 
 3) Run application project on localhost.
 Sugestion: Use an IDE (mine was Netbeans).
+
+4) Done!
+
+Videos: https://www.dropbox.com/sh/aswy1pl5obnz9rl/AADA3idF9xXQYw_r5I2ba0wwa?dl=0
